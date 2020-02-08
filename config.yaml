@@ -20,7 +20,10 @@ params:
         accent1: '#8e2de2'
         accent2: '#4a00e0'
 menu:
-  main: []
+  main:
+    - identifier: cvrest
+      name: create your cv
+      url: 'https://cvrest.com'
 disableKinds:
   - RSS
   - taxonomy
