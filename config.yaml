@@ -1,4 +1,4 @@
-title: CVREST Bog
+title: CVREST Blog
 baseURL: /
 params:
   palette: blue
@@ -20,15 +20,7 @@ params:
         accent1: '#8e2de2'
         accent2: '#4a00e0'
 menu:
-  main:
-    - identifier: layouts
-      name: Sample Layouts
-      url: '#'
-      weight: 5
-    - identifier: github
-      name: GitHub
-      url: 'https://github.com/'
-      weight: 6
+  main: []
 disableKinds:
   - RSS
   - taxonomy
